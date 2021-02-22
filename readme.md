@@ -24,8 +24,8 @@
     - Math.sqrt(x) : to get square root of x
 
 4. **Const vs Let**
-  ##### *let* is now preferred for variable declaration. A variable declared with *let* can be updated within its scope.
-  ##### Variables declared with the *const* maintain constant values. This means that the value of a variable declared with *const* remains the same within its scope. It cannot be updated or re-declared.
+   ##### *let* is now preferred for variable declaration. A variable declared with *let* can be updated within its scope.
+   ##### Variables declared with the *const* maintain constant values. This means that the value of a variable declared with *const* remains the same within its scope. It cannot be updated or re-declared.
 
 5. **Function return**
     - When a function does not return anything it return **undefined**
@@ -38,6 +38,7 @@
   return a * b;             
   // Function returns the product of a and b
   }
+  ```
 
 6. **String property and method**
     - A property is a variable that is stored as part of another.
@@ -50,11 +51,11 @@
       4. x.indexOf('y') : to find the index of letter 'y' in x string.
 
   7. **Boolean**
-    ##### A JavaScript Boolean represents one of two values, *true or false*. It is mainly use when comparing and/or in conditional statements.
+     ##### A JavaScript Boolean represents one of two values, *true or false*. It is mainly use when comparing and/or in conditional statements.
     -  When comparing two same data types we use **"==="**
   8. **If/Else conditional statements**
-    ##### The if/else statement executes a block of code if a specified condition is true. If the condition is false, another block of code can be executed. The if/else statement is a part of JavaScript's "Conditional" Statements, which are used to perform different actions based on different conditions.
-    ##### we use *'&&'* and *'||'* to combine different conditions in one statement know as complex conditional statement.
+     ##### The if/else statement executes a block of code if a specified condition is true. If the condition is false, another block of code can be executed. The if/else statement is a part of JavaScript's "Conditional" Statements, which are used to perform different actions based on different conditions.
+     ##### we use *'&&'* and *'||'* to combine different conditions in one statement know as complex conditional statement.
 
     
 
